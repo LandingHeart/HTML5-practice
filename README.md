@@ -1,2 +1,2 @@
 # HTML5-practice
-### HTML5  Practics, vannila html css.
+### HTML5  Practics, vanilla html css.
